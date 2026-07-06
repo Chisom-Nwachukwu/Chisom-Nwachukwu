@@ -53,7 +53,10 @@ Engineered a visual financial analytics interface tracking market capitalization
 
 📫 Connect & Collaborate
 * GitHub Portfolio:[https://github.com/Chisom-Nwachukwu](https://github.com/Chisom-Nwachukwu)
-* **LinkedIn:** [(https://shorturl.at/YK5ru)]
+* LinkedIn: [(https://shorturl.at/YK5ru)]
+  👉 [View Netflix Explorer Dashboard PDF](./Task%201%20Netflix_Explorer%20Dashboard.pdf)
+👉 [View Crypto Trends Analyzer PDF](./Task%202%20_Crypto%20Trends%20Analyzer.pdf)
+👉 [View Customer Sales Dashboard PDF](./Task%203%20Customer%20Sales%20Dashboard.pdf)
 <!--
 **Chisom-Nwachukwu/Chisom-Nwachukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
