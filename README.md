@@ -1,6 +1,6 @@
 # Chisom Nwachukwu
 
-**Cardiac Physiologist & Data Scientist**  
+Cardiac Physiologist & Data Scientist
 Bridging Advanced Clinical Diagnostics with High-Impact Predictive Analytics & Business Intelligence
 
 🎯 Professional Profile
@@ -11,7 +11,7 @@ A analytical professional uniquely positioned at the intersection of advanced cl
 
 | Domain | Technologies & Frameworks |
 | Languages & Core Analytics | Python (Pandas, NumPy, Scikit-Learn), SQL |
-| Business Intelligence (BI)| Power BI, DAX, Advanced Data Modeling, Interactive KPI Engineering |
+| Business Intelligence (BI)| Power BI, Advanced Data Modeling, Interactive KPI Engineering |
 | Machine Learning & Stats| Linear Regression, Lasso, Decision Tree Regressors, Statistical Analysis |
 | Clinical Frameworks| Advanced Echocardiography Metrics, Cardiovascular Pathophysiology, Clinical Imaging |
 
